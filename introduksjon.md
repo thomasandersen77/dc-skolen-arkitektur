@@ -87,6 +87,13 @@
 
 ---
 
+### Model View Controller
+  - Visualisering av MVC pattern
+   
+<img src="diagrams_intro/layered_arch.drawio.png" style="width:250px" />
+<img src="diagrams_intro/layered_arch_2.drawio.png" style="width:250px" />
+
+
 ## Roller og ansvar i utviklingsprosjekter
 - **Nøkkelroller:**
     - Virksomhetsarkitekt
