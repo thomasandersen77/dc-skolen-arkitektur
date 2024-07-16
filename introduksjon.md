@@ -87,8 +87,8 @@
 
 ---
 
-### Model View Controller
-  - Visualisering av MVC pattern
+### Lagdelt arkitektur
+  - Visualisering av lagdelt arkitektur
    
 <img src="diagrams_intro/layered_arch.drawio.png" style="width:250px" />
 <img src="diagrams_intro/layered_arch_2.drawio.png" style="width:250px" />
